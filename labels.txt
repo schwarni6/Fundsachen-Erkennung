@@ -1,0 +1,5 @@
+0 jacke
+1 Schuh
+2 Trinkflasche
+3 Sonstiges
+4 T-shirt
